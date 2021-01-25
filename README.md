@@ -1,3 +1,9 @@
 # Profiles REST API
 
-Profiles REST API course code 
+FrameWorks/Tools Used
+
+- Verner
+
+- Django
+
+
