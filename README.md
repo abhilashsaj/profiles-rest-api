@@ -6,4 +6,4 @@ FrameWorks/Tools Used
 
 - Django
 
-
+- AWS
